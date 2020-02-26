@@ -5,10 +5,6 @@
   
 # Code Template, 代碼範例
 
-see
-
-<http://192.168.200.24:10080/tradsysdiv/fb/bondquotefetch/commits/QueenPy2>
-
 usage of request 
 
 <https://realpython.com/python-requests/>
