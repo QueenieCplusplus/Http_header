@@ -57,8 +57,7 @@ usage of request
 * Access-Control-Request-Method: GET
 
    see Access-Control-Allow-Methods: 'GET, POST' from Server side
-
-   <http://192.168.200.24:10080/QC-109/8888/blob/master/README.md#response-field-%E9%9F%BF%E6%87%89%E7%9A%84%E6%AC%84%E4%BD%8D>        
+   
      
 * Forwarded: for=192.0.2.60;proto=http;by=203.0.113.43 
 
