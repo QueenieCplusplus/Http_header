@@ -1,0 +1,6 @@
+# create by QueenPy on 2020.02.27
+
+#pip install -r requirements.txt
+
+requests 
+pandas
